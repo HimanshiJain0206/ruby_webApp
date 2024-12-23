@@ -34,5 +34,11 @@
   "error_gender": "براہ کرم صنف کا انتخاب کریں",
   "error_terms": "براہ کرم شرائط و ضوابط کو قبول کریں",
   "registration": "رجسٹریشن",
-  "register": "رجسٹر"
+  "register": "رجسٹر",
+
+  "valid_time":  "The OTP will be valid for only 30 secs",
+  "resend_OTP": "Resend OTP",
+  "verify": "Verify",
+  "enter_OTP": "Enter OTP",
+  "A_6-digit_code_has_been_sent_to":  "A 6-digit code has been sent to"
 }
