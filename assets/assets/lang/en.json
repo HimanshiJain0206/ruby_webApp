@@ -2,7 +2,7 @@
   "ruby_hospital": "Ruby Hospital",
   "ruby_general_hospital": "Ruby General Hospital",
   "NABH Accredited Multispeciality Hospital": "NABH Accredited Multispeciality Hospital",
-  "sub_title": " 'We connect doctors, nurses, caretakers, physiotherapists for home visits, book lab tests, deliver medicines at home. Teleconsultation and appointments with doctors are enabled, making health reach you at its best.'",
+  "sub_title": "Find Doctors, Book Appointments, have Digital Consultation, get prescriptions and live a healthy life!",
   "enter_phone_number": "Enter phone number",
   "please_enter_the_valid_10_digit_phone_number": "Please Enter the valid 10 digit phone number",
   "log_in": "Log In",
@@ -39,5 +39,7 @@
   "resend_OTP": "Resend OTP",
   "verify": "Verify",
   "enter_OTP": "Enter OTP",
-  "A_6-digit_code_has_been_sent_to":  "A 6-digit code has been sent to"
+  "A_6-digit_code_has_been_sent_to":  "A 6-digit code has been sent to",
+  "about_us_introduction": "The Hon'ble Chief Minister Shri Jyoti Basu inaugurated Ruby General Hospital on 25th April 1995. Mother Teresa opened the Cardiac Unit on 28th October 1995.\nThe motto of Ruby General Hospital is to give honest, caring, compassionate and economical care to the people of Eastern India. The consultants working at Ruby are the best with national repute. The quality of medical care is always monitored so that the patients are assured that medically necessary treatment is only being given to them. There is also a constant inflow of doctors from United States who bring the latest advances of treatment to the patients at Ruby Hospital.\\nDr. Kamal K. Dutta, is also the Chairman cum Managing Director of Ruby General Hospital. He graduated from R.G. Kar Medical College in Calcutta and went to the United States in 1976. He is a Consultant Gynaecologist who is attached to the leading hospitals in New Jersey, USA. He was the Chairman of the Dept. of Obstetrics & Gynaecology at St. Mary\\'s Hospital and also the Chairman at General Hospital Center in New Jersey, USA.\nDr. Dutta is a Diplomate of American Board of Obstetrics & Gynaecology and he was awarded the prestigious Fellowship of the American College of Surgeons and also the Fellowship of American College of Gynaecologists.",
+  "about_us_description": "Ruby General Hospital is the first NRI hospital in Eastern India. It is ISO 9001 : 2015 certified and a NABH accredited tertiary care multispeciality hospital. Ruby has also been conferred with the prestigious ‘Healthcare Achievers Award’, in the category of Best Multispeciality Hospital, Kolkata. Ruby General Hospital has a very well experienced and accomplished team of medical practitioners, technicians, nurses and other administrative staff. Ruby General Hospital has more than 200 renowned Sr. Consultants of different specialties and around 50 In-house Doctors who are always available. Our Out Patient Services in 42 multi -specialties are available from 8 am to 8 pm (Monday - Saturday) and 8 am - 2 pm (on Sundays)\\nThe 316 bedded Hospital has 6 Operation Theatres, Cath Lab, CTVS ICU, ITU, ICCU, NICU, Day Care Services, Radiology Services, Emergency Department, Pathology Services, round the clock ambulance, pharmacy and other diagnostic services. In a span of around 26 years, the hospital has performed a variety of major surgeries & Cath Lab procedures, Cardio Thoracic Surgeries, Cancer Surgeries and other complicated surgeries / procedures with a very high success rate. Every day around 350 to 400 patients avail of our Out Patient Services."
 }
